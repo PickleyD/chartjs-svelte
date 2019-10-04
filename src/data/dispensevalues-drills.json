@@ -1,0 +1,392 @@
+    [
+        [
+            {
+                "date": "Mon",
+                "dispenseValue": "4324"
+            },
+            {
+                "date": "Tue",
+                "dispenseValue": "4125"
+            },
+            {
+                "date": "Wed",
+                "dispenseValue": "5375"
+            },
+            {
+                "date": "Thu",
+                "dispenseValue": "3464"
+            },
+            {
+                "date": "Fri",
+                "dispenseValue": "2346"
+            },
+            {
+                "date": "Sat",
+                "dispenseValue": "9876"
+            },
+            {
+                "date": "Sun",
+                "dispenseValue": "8764"
+            }
+        ],
+        [
+            {
+                "date": "Mon",
+                "dispenseValue": "7273"
+            },
+            {
+                "date": "Tue",
+                "dispenseValue": "3886"
+            },
+            {
+                "date": "Wed",
+                "dispenseValue": "3465"
+            },
+            {
+                "date": "Thu",
+                "dispenseValue": "4564"
+            },
+            {
+                "date": "Fri",
+                "dispenseValue": "2342"
+            },
+            {
+                "date": "Sat",
+                "dispenseValue": "7897"
+            },
+            {
+                "date": "Sun",
+                "dispenseValue": "4564"
+            }
+        ],
+        [
+            {
+                "date": "Mon",
+                "dispenseValue": "3654"
+            },
+            {
+                "date": "Tue",
+                "dispenseValue": "9978"
+            },
+            {
+                "date": "Wed",
+                "dispenseValue": "2243"
+            },
+            {
+                "date": "Thu",
+                "dispenseValue": "6474"
+            },
+            {
+                "date": "Fri",
+                "dispenseValue": "7654"
+            },
+            {
+                "date": "Sat",
+                "dispenseValue": "6776"
+            },
+            {
+                "date": "Sun",
+                "dispenseValue": "1241"
+            }
+        ],
+        [
+            {
+                "date": "Mon",
+                "dispenseValue": "4324"
+            },
+            {
+                "date": "Tue",
+                "dispenseValue": "4125"
+            },
+            {
+                "date": "Wed",
+                "dispenseValue": "5375"
+            },
+            {
+                "date": "Thu",
+                "dispenseValue": "3464"
+            },
+            {
+                "date": "Fri",
+                "dispenseValue": "2346"
+            },
+            {
+                "date": "Sat",
+                "dispenseValue": "9876"
+            },
+            {
+                "date": "Sun",
+                "dispenseValue": "8764"
+            }
+        ],
+        [
+            {
+                "date": "Mon",
+                "dispenseValue": "7273"
+            },
+            {
+                "date": "Tue",
+                "dispenseValue": "3886"
+            },
+            {
+                "date": "Wed",
+                "dispenseValue": "3465"
+            },
+            {
+                "date": "Thu",
+                "dispenseValue": "4564"
+            },
+            {
+                "date": "Fri",
+                "dispenseValue": "2342"
+            },
+            {
+                "date": "Sat",
+                "dispenseValue": "7897"
+            },
+            {
+                "date": "Sun",
+                "dispenseValue": "4564"
+            }
+        ],
+        [
+            {
+                "date": "Mon",
+                "dispenseValue": "3654"
+            },
+            {
+                "date": "Tue",
+                "dispenseValue": "9978"
+            },
+            {
+                "date": "Wed",
+                "dispenseValue": "2243"
+            },
+            {
+                "date": "Thu",
+                "dispenseValue": "6474"
+            },
+            {
+                "date": "Fri",
+                "dispenseValue": "7654"
+            },
+            {
+                "date": "Sat",
+                "dispenseValue": "6776"
+            },
+            {
+                "date": "Sun",
+                "dispenseValue": "1241"
+            }
+        ],
+        [
+            {
+                "date": "Mon",
+                "dispenseValue": "4324"
+            },
+            {
+                "date": "Tue",
+                "dispenseValue": "4125"
+            },
+            {
+                "date": "Wed",
+                "dispenseValue": "5375"
+            },
+            {
+                "date": "Thu",
+                "dispenseValue": "3464"
+            },
+            {
+                "date": "Fri",
+                "dispenseValue": "2346"
+            },
+            {
+                "date": "Sat",
+                "dispenseValue": "9876"
+            },
+            {
+                "date": "Sun",
+                "dispenseValue": "8764"
+            }
+        ],
+        [
+            {
+                "date": "Mon",
+                "dispenseValue": "7273"
+            },
+            {
+                "date": "Tue",
+                "dispenseValue": "3886"
+            },
+            {
+                "date": "Wed",
+                "dispenseValue": "3465"
+            },
+            {
+                "date": "Thu",
+                "dispenseValue": "4564"
+            },
+            {
+                "date": "Fri",
+                "dispenseValue": "2342"
+            },
+            {
+                "date": "Sat",
+                "dispenseValue": "7897"
+            },
+            {
+                "date": "Sun",
+                "dispenseValue": "4564"
+            }
+        ],
+        [
+            {
+                "date": "Mon",
+                "dispenseValue": "3654"
+            },
+            {
+                "date": "Tue",
+                "dispenseValue": "9978"
+            },
+            {
+                "date": "Wed",
+                "dispenseValue": "2243"
+            },
+            {
+                "date": "Thu",
+                "dispenseValue": "6474"
+            },
+            {
+                "date": "Fri",
+                "dispenseValue": "7654"
+            },
+            {
+                "date": "Sat",
+                "dispenseValue": "6776"
+            },
+            {
+                "date": "Sun",
+                "dispenseValue": "1241"
+            }
+        ],
+        [
+            {
+                "date": "Mon",
+                "dispenseValue": "4324"
+            },
+            {
+                "date": "Tue",
+                "dispenseValue": "4125"
+            },
+            {
+                "date": "Wed",
+                "dispenseValue": "5375"
+            },
+            {
+                "date": "Thu",
+                "dispenseValue": "3464"
+            },
+            {
+                "date": "Fri",
+                "dispenseValue": "2346"
+            },
+            {
+                "date": "Sat",
+                "dispenseValue": "9876"
+            },
+            {
+                "date": "Sun",
+                "dispenseValue": "8764"
+            }
+        ],
+        [
+            {
+                "date": "Mon",
+                "dispenseValue": "7273"
+            },
+            {
+                "date": "Tue",
+                "dispenseValue": "3886"
+            },
+            {
+                "date": "Wed",
+                "dispenseValue": "3465"
+            },
+            {
+                "date": "Thu",
+                "dispenseValue": "4564"
+            },
+            {
+                "date": "Fri",
+                "dispenseValue": "2342"
+            },
+            {
+                "date": "Sat",
+                "dispenseValue": "7897"
+            },
+            {
+                "date": "Sun",
+                "dispenseValue": "4564"
+            }
+        ],
+        [
+            {
+                "date": "Mon",
+                "dispenseValue": "3654"
+            },
+            {
+                "date": "Tue",
+                "dispenseValue": "9978"
+            },
+            {
+                "date": "Wed",
+                "dispenseValue": "2243"
+            },
+            {
+                "date": "Thu",
+                "dispenseValue": "6474"
+            },
+            {
+                "date": "Fri",
+                "dispenseValue": "7654"
+            },
+            {
+                "date": "Sat",
+                "dispenseValue": "6776"
+            },
+            {
+                "date": "Sun",
+                "dispenseValue": "1241"
+            }
+        ],
+        [
+            {
+                "date": "Mon",
+                "dispenseValue": "4324"
+            },
+            {
+                "date": "Tue",
+                "dispenseValue": "4125"
+            },
+            {
+                "date": "Wed",
+                "dispenseValue": "5375"
+            },
+            {
+                "date": "Thu",
+                "dispenseValue": "3464"
+            },
+            {
+                "date": "Fri",
+                "dispenseValue": "2346"
+            },
+            {
+                "date": "Sat",
+                "dispenseValue": "9876"
+            },
+            {
+                "date": "Sun",
+                "dispenseValue": "8764"
+            }
+        ]
+    ]

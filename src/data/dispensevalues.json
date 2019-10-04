@@ -1,0 +1,54 @@
+[
+    {
+        "date": "01-Jan-18 12:00:00 AM",
+        "dispenseValue": "6576"
+    },
+    {
+        "date": "08-Jan-18 12:00:00 AM",
+        "dispenseValue": "9715"
+    },
+    {
+        "date": "15-Jan-18 12:00:00 AM",
+        "dispenseValue": "10482"
+    },
+    {
+        "date": "22-Jan-18 12:00:00 AM",
+        "dispenseValue": "12198"
+    },
+    {
+        "date": "29-Jan-18 12:00:00 AM",
+        "dispenseValue": "7002"
+    },
+    {
+        "date": "05-Feb-18 12:00:00 AM",
+        "dispenseValue": "8333"
+    },
+    {
+        "date": "12-Feb-18 12:00:00 AM",
+        "dispenseValue": "7510"
+    },
+    {
+        "date": "19-Feb-18 12:00:00 AM",
+        "dispenseValue": "11438"
+    },
+    {
+        "date": "26-Feb-18 12:00:00 AM",
+        "dispenseValue": "8648"
+    },
+    {
+        "date": "05-Mar-18 12:00:00 AM",
+        "dispenseValue": "14020"
+    },
+    {
+        "date": "12-Mar-18 12:00:00 AM",
+        "dispenseValue": "9345"
+    },
+    {
+        "date": "19-Mar-18 12:00:00 AM",
+        "dispenseValue": "8646"
+    },
+    {
+        "date": "26-Mar-18 12:00:00 AM",
+        "dispenseValue": "13236"
+    }
+]
